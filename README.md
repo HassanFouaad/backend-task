@@ -18,7 +18,7 @@ SQL (DDL Script) that describes the schema could be found in script.sql
 
 
 <a name="run"></a>
-## 3. Description
+# 3. Description
 ### 1- Please Check .env.example in repo files
 ### 2- Set your server port
 ### 3- Set Postgresql DB configuration
