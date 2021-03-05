@@ -25,4 +25,4 @@ SQL (DDL Script) that describes the schema could be found in script.sql
 ### 4- Run npm run migrate
 ### 5- Run npm run seed to generate category parent
 ### 6- Run npm install
-# 7- Run npm run dev to start development Server
+### 7- Run npm run dev to start development Server
