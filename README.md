@@ -13,16 +13,16 @@ Authored by Hassan Fouad
 
 
 <a name="desc"></a>
-## 2. SQL Script
+# 2. SQL Script
 SQL (DDL Script) that describes the schema could be found in script.sql
 
 
 <a name="run"></a>
 ## 3. Description
-1- Please Check .env.example in repo files
-2- Set your server port
-3- Set Postgresql DB configuration
-4- Run npm run migrate
-5- Run npm run seed to generate category parent
-6- Run npm install
-7- Run npm run dev to start development Server
+# 1- Please Check .env.example in repo files
+# 2- Set your server port
+# 3- Set Postgresql DB configuration
+# 4- Run npm run migrate
+# 5- Run npm run seed to generate category parent
+# 6- Run npm install
+# 7- Run npm run dev to start development Server
