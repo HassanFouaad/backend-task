@@ -6,6 +6,8 @@
 
 [ How To Run?. ](#run)
 
+[ Postman Collection ](#postman)
+
 
 
 <a name="desc"></a>
@@ -37,3 +39,7 @@ in /middlewares/pagination.js
 #### 5- Run npm run seed to generate category parent
 #### 6- Run npm install
 #### 7- Run npm run dev to start development Server
+
+<a name="postman"></a>
+## 5. PostMan API Collection
+https://documenter.getpostman.com/view/11631463/Tz5jdzd7
