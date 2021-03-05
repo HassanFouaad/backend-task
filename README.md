@@ -24,8 +24,8 @@ SQL (DDL Script) that describes the schema could be found in script.sql
 I have coded two different pagination middleware
 in /middlewares/pagination.js
 
-### paginationwithCondition accepts sequelize orm query 
-### paginationwithRaw accepts sequelize sql raw query 
+#### paginationwithCondition accepts sequelize orm query 
+#### paginationwithRaw accepts  sql raw query 
 
 
 <a name="run"></a>
